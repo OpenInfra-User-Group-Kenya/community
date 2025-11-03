@@ -16,3 +16,33 @@ We commit to promoting:
  - Diversity of thought and background
  - Privacy and safety in all community interactions
 
+# Expected Behaviour
+
+Community members are expected to:
+
+ - Be **respectful** and **considerate** in all interactions
+ - Use **inclusive language** and avoid personal attacks
+ - Provide **constructive feedback**
+ - Credit and **acknowledge contributions** fairly
+ - **Respect privacy** — do not share others’ information without consent
+ - Support a culture of **learning and collaboration** during PoCs and community projects
+
+# Unacceptable Behaviour
+
+Unacceptable behavior includes:
+
+ - Harassment, intimidation, or discrimination of any kind
+ - Insults, threats, or demeaning comments, in person or online
+ - **Stalking, doxxing, or following members outside official channels**
+ - Unwelcome sexual attention or advances
+ - Sharing of explicit, political, or religious content unrelated to the community
+ - Disrupting events, discussions, or meetings
+ - Retaliation against anyone who reports a concern
+
+We will not tolerate conduct that violates another member’s privacy, security, or comfort — whether physical or digital.
+
+
+
+
+
+
