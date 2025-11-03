@@ -53,6 +53,18 @@ Recognizing that open communities can expose individuals to unwanted contact, we
 
 These guidelines ensure that all contributors — regardless of background — can safely collaborate, innovate, and learn.
 
+# Responsibilities of Community Leaders
+
+Community organizers, moderators, and project leads are responsible for:
+
+ - Enforcing this Code of Conduct in all community spaces
+ - Promoting empathy and inclusivity
+ - Addressing incidents promptly and fairly
+ - Maintaining the confidentiality of reports
+ - Taking corrective or preventive actions when necessary
+
+Leaders will prioritize **education and resolution** over punishment when appropriate but will act decisively against harassment or unsafe behavior.
+
 
 
 
