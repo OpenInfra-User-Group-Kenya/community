@@ -41,6 +41,18 @@ Unacceptable behavior includes:
 
 We will not tolerate conduct that violates another member’s privacy, security, or comfort — whether physical or digital.
 
+# Protecting Member Privacy and Anonymity
+
+Recognizing that open communities can expose individuals to unwanted contact, we emphasize **privacy and digital safety** as part of our conduct:
+
+ - Members are free to participate using **pseudonyms or professional aliases**.
+ - Sharing of another member’s contact details, social handles, or photos **without explicit consent** is prohibited.
+ - Members must not reach out, follow, or engage with others **outside community platforms** (Slack, GitHub, or event spaces) unless invited.
+ - Any form of **doxxing, stalking, or non-consensual data sharing** will result in immediate action, including removal from the community and potential escalation to the OpenInfra Foundation.
+ - Reports will be handled confidentially, and the reporter’s identity will not be disclosed without permission.
+
+These guidelines ensure that all contributors — regardless of background — can safely collaborate, innovate, and learn.
+
 
 
 
