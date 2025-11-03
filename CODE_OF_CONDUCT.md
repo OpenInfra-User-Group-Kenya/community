@@ -65,7 +65,14 @@ Community organizers, moderators, and project leads are responsible for:
 
 Leaders will prioritize **education and resolution** over punishment when appropriate but will act decisively against harassment or unsafe behavior.
 
+# Reporting a Violation
 
+If you experience or witness a violation of this Code:
+
+ - Contact the **OpenInfraKE Team** via [openinfrake](openinfra.ke@proton.me)
+ - You may report anonymously or under a pseudonym.
+ - Reports will be treated seriously and reviewed promptly.
+ - Retaliation against anyone who reports in good faith will not be tolerated.
 
 
 
