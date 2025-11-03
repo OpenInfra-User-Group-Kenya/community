@@ -74,6 +74,17 @@ If you experience or witness a violation of this Code:
  - Reports will be treated seriously and reviewed promptly.
  - Retaliation against anyone who reports in good faith will not be tolerated.
 
+# Scope
+
+This Code of Conduct applies to all OpenInfra User Group Kenya spaces — including GitHub repositories, Slack channels, community calls, events, and social platforms — as well as private communication related to community work.
+
+# Attribution
+
+This Code of Conduct draws upon:
+- [OpenInfra Foundation Code of Conduct](https://openinfra.org/legal/code-of-conduct/)
+- [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+
+
 
 
 
